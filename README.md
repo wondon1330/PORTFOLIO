@@ -2,8 +2,7 @@
 
 <h2>기술 스택</h2>
 
-![제목 없는 프레젠테이션 (2)](https://github.com/wondon1330/PORTFOLIO/assets/134644570/c39e3dd7-ded7-4272-863d-0c5978db27bd)
-
+![제목 없는 프레젠테이션 (3)](https://github.com/wondon1330/PORTFOLIO/assets/134644570/bfaa8c75-dd59-48fa-8104-ce41405f3455)
 
 <b>프로젝트 : Groupware 업무용 시스템 웹 제작</b><br>
 제작 기간 : 1개월<br>
