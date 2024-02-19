@@ -1,4 +1,5 @@
 # 포트폴리오
+<hr>
 <h2>기술 스택</h2>
 
 ![제목 없는 프레젠테이션 (6)](https://github.com/wondon1330/PORTFOLIO/assets/134644570/8208393f-14be-43d0-b900-dd6a6b29bb86)
