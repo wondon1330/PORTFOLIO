@@ -5,7 +5,7 @@
 ![제목 없는 프레젠테이션 (5)](https://github.com/wondon1330/PORTFOLIO/assets/134644570/93f3e914-4023-4e33-9ba0-d370b5698a8a)
 
 <h2>프로젝트</h2>
-\- JAVA 기반 업무용 그룹웨어 WEB 시스템 개발(팀 프로젝트)<br>
+- JAVA 기반 업무용 그룹웨어 WEB 시스템 개발(팀 프로젝트)<br>
 <br>
 <b>설명 : Groupware 업무용 시스템 웹 제작</b><br>
 제작 기간 : 1개월<br>
