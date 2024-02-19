@@ -1,6 +1,7 @@
 # 포트폴리오
 
-<h2>나의 스틸</h2>
+<h2>나의 스킬</h2>
+
 ![image](https://github.com/wondon1330/PORTFOLIO/assets/134644570/4ad1432e-92b4-4fe5-a140-94c0fb3e0f75)
 
 <h2>기술 스택</h2>
