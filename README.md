@@ -2,7 +2,7 @@
 
 <h2>기술 스택</h2>
 
-![제목 없는 프레젠테이션 (5)](https://github.com/wondon1330/PORTFOLIO/assets/134644570/93f3e914-4023-4e33-9ba0-d370b5698a8a)
+![제목 없는 프레젠테이션 (6)](https://github.com/wondon1330/PORTFOLIO/assets/134644570/8208393f-14be-43d0-b900-dd6a6b29bb86)
 
 <h2>팀 프로젝트</h2>
 <p>JAVA 기반 업무용 그룹웨어 WEB 시스템 개발(팀 프로젝트)</p>
