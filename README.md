@@ -14,6 +14,11 @@
 JAVA 기반 업무용 그룹웨어 WEB 시스템 개발(팀 프로젝트)
 <br><br>
 
+<h2>개발 환경</h2>
+
+![image](https://github.com/wondon1330/PORTFOLIO/assets/134644570/d20e93e4-60ac-4637-912e-063122706e63)
+
+
 <h2>DB 사원 테이블</h2>
 <br>
 
