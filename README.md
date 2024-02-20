@@ -10,7 +10,7 @@
 
 <h2>기술 스택</h2>
 
-![제목 없는 프레젠테이션 (6)](https://github.com/wondon1330/PORTFOLIO/assets/134644570/8208393f-14be-43d0-b900-dd6a6b29bb86)
+![기술서 양식](https://github.com/wondon1330/PORTFOLIO/assets/134644570/d5053451-9b66-4646-8353-f2f54230eba4)
 
 <h2>핵심 역량</h2>
 - JAVA, Spring Framework 기반 업무용 그룹웨어 WEB 시스템 개발(팀 프로젝트) 경험 보유<br>
