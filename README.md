@@ -60,6 +60,8 @@
 <br>
 <br>
 
+회원 정보를 담을 employees 테이블 구성입니다. 
+
 <hr>
 <h2>회원 CRUD</h2>
 
