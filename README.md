@@ -227,7 +227,7 @@
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/fdcdada4-880b-4861-a51d-54de9334088f)
 
-사용자가 복구 이메일을 입력 후 저장합니다.
+사용자가 복구 이메일을 입력 후 저장합니다.(이후 임시 비밀번호 수신시 필요)
 
 <br>
 
