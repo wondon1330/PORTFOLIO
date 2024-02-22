@@ -124,7 +124,7 @@
 
 >![image](https://github.com/wondon1330/groupware/assets/134644570/2e7b8960-cf8d-4ac2-a4cd-43c93ccbb168)
 
-해싱된 비밀번호 문자열을 BigInteger(10진법)로 받습니다. 10진법짜리 숫자을 String.format과 "%0128x" 통해 16진법으로 바꿔줍니다.
+해싱된 비밀번호 문자열을 BigInteger(10진법)로 받습니다. 10진법짜리 숫자를 String.format과 "%0128x" 통해 16진법으로 바꿔줍니다.
 
 <br>
 
