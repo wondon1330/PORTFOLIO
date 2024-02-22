@@ -33,7 +33,7 @@
 
 <h2>담당 파트</h2>
 <b>- 회원 CRUD</b><br>
-　DB 데이터 암호화 저장(Salt + Key Streching)<br>
+　DB 데이터 암호화 저장 (Salt + Key Streching)<br>
 <br>
 
 <b>- 로그인</b><br>
