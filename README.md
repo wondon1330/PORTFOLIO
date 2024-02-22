@@ -41,7 +41,7 @@
 <br>
 
 <b>- 주소록</b><br>
-　Ajax 비동기 처리<br>
+　Ajax fetch API<br>
 <br>
 
 <b>- 결재승인신청 로그</b><br>
