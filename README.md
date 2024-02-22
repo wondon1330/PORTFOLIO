@@ -53,7 +53,6 @@
 <br>
 
 <h2>DB 사원 테이블</h2>
-<br>
 
 >![image](https://github.com/wondon1330/groupware/assets/134644570/33fdd0a0-dac3-4be2-8aaa-033de15f0eeb)
 <br>
