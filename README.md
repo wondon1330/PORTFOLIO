@@ -259,7 +259,7 @@
 .
 # Contact
 ><center>
->    <a href="https://github.com/wondon1330/"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/d7d31e9e-312b-4edf-8fec-6172b8f8c00b.png" width="20" height="20"/></a>
+>    <a href="https://github.com/wondon1330/"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/d7d31e9e-312b-4edf-8fec-6172b8f8c00b.png" width="20" height="20" display="block"/></a>
 ></center>
 >
 [Github](https://github.com/wondon1330)<br>
