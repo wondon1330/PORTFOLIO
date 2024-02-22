@@ -257,7 +257,7 @@
 ~Contact
 ><center><a href="https://github.com/wondon1330"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/d7d31e9e-312b-4edf-8fec-6172b8f8c00b.png" width="20" height="20"/></a></center>　https://github.com/wondon1330<br>
 ><center><a href="https://velog.io/@wondon1330"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/cefe9086-075b-4119-a43c-39ac9c80c816.png" width="20" height="20"/></a></center>　https://velog.io/@wondon1330<br>
-><center><a href=""><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/fd365c88-34ec-4172-8960-cf64751f195d.png" width="20" height="20"/></a></center>　https://twitter.com/wondon1330<br>
+><center><a href="https://twitter.com/wondon1330"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/fd365c88-34ec-4172-8960-cf64751f195d.png" width="20" height="20"/></a></center>　https://twitter.com/wondon1330<br>
 
 <br>
 
