@@ -185,13 +185,13 @@
 <h3>결재 승인 신청서 작성 완료한 내용 -> 자동으로 양식에 맞춰 PDF로 변환 후 다운로드(CDN)</h3>
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/52e6e3e6-e671-4fd6-b154-30cf1e46ddb2)
+
+기능 API를 사용하여 HTML을 PNG 이미지로 변환 시킨 것을 기반으로 PDF를 생성해줍니다. 원한다면 직접 CSS 스타일링 해볼 수도 있습니다. 이것은 제가 직접 만들어본 양식으로 변환시킨 PDF 파일입니다. 어떤 양식이든 본인이 지정한 폼으로 PDF 파일로 변환이 가능합니다.
 <br><br>
 ![image](https://github.com/wondon1330/groupware/assets/134644570/c1dc854e-effb-482e-8ac2-45fa06371bad)
 <br>
 <br>
 ![image](https://github.com/wondon1330/groupware/assets/134644570/ee92cc2e-99e7-4bf7-9df8-fec5b80f0a46)
-
-기능 API를 사용하여 HTML을 PNG 이미지로 변환 시킨 것을 기반으로 PDF를 생성해줍니다. 원한다면 직접 CSS 스타일링 해볼 수도 있습니다. 이것은 제가 직접 만들어본 양식으로 변환시킨 PDF 파일입니다. 어떤 양식이든 본인이 지정한 폼으로 PDF 파일로 변환이 가능합니다.
 <br>
 <br>
 
