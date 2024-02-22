@@ -152,9 +152,9 @@
 <br>
 <br>
 
-![image](https://github.com/wondon1330/groupware/assets/134644570/29c23986-b9c0-4b6c-98f7-3811c15f8bb9)
+>![image](https://github.com/wondon1330/groupware/assets/134644570/29c23986-b9c0-4b6c-98f7-3811c15f8bb9)
 <br>
-![image](https://github.com/wondon1330/groupware/assets/134644570/dc7cd97e-0ef2-44e0-a093-b2b5d7e33293)
+>![image](https://github.com/wondon1330/groupware/assets/134644570/dc7cd97e-0ef2-44e0-a093-b2b5d7e33293)
 <br>
 
     function filterByDepartment(department) {
