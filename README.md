@@ -90,7 +90,6 @@
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/2ad854c7-aa6c-4168-b09b-84c1ebb14e0c)
 <br>
-<br>
 평문을 그대로 DB에 저장되어 보여지는 것을 방지하고자 해싱을 통해 암호화를 하였으나,
 <br>
 <br>
