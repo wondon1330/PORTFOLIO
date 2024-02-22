@@ -272,7 +272,7 @@
 <a href="https://github.com/wondon1330/"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/d7d31e9e-312b-4edf-8fec-6172b8f8c00b.png" width="42" height="42" display="block"/></a>
 　　<a href="https://velog.io/@wondon1330"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/cefe9086-075b-4119-a43c-39ac9c80c816.png" width="40" height="40" display="block"/></a>
 　　<a href="https://twitter.com/wondon1330"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/dd3494fa-b9ce-4406-80d5-e8c6edc83351.png" width="38" height="37.5" display="block"/></a>
-　　<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbtsPSJgfWZkWFvKVRgGSlrfDNQjfNQBMkVHrBSCjWHJVbxkRnjsgvpdqxfnprSVfHWqrN"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/9b856664-eea4-4d3b-a3e2-00f707ac2dc1.png" width="40" height="40" display="block"/></a>
+　　<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbtsPSJgfWZkWFvKVRgGSlrfDNQjfNQBMkVHrBSCjWHJVbxkRnjsgvpdqxfnprSVfHWqrN"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/9b856664-eea4-4d3b-a3e2-00f707ac2dc1.png" width="40" height="38" display="block"/></a>
 </center>
 
 
