@@ -1,3 +1,8 @@
+.center {
+  display: block;
+  margin: auto;
+}
+
 # 포트폴리오
 <br>
 
