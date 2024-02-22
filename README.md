@@ -252,7 +252,7 @@
 >![image](https://github.com/wondon1330/groupware/assets/134644570/36fbac3d-a3c1-446c-b405-3a7135c294dc)
 >![image](https://github.com/wondon1330/groupware/assets/134644570/72169690-12a7-4a36-8fcf-1afe3a372e15)
 
-메일 발송 용도의 계정 정보(아이디/비밀번호)가 담긴 txt 파일을 경로에 넣어둔 다음, 경로 지정과 계정 정보 임의로 불러오기, 환경설정을 통한 SMTP 환경설정 및 활용법입니다.
+메일 발송 용도의 계정 정보(아이디/비밀번호)가 담긴 txt 파일을 경로(src/main/resources/)에 넣어둔 다음, 경로 지정과 계정 정보 임의로 불러오기, 환경설정을 통한 SMTP 환경설정 및 활용법입니다.
 
 <br>
 
