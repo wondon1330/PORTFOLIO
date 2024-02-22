@@ -147,11 +147,10 @@
 ![image](https://github.com/wondon1330/groupware/assets/134644570/18dfb086-a9ad-4304-a4c0-ae2ab1839613)
 <br><br>
 
+<h3>부서별</h3>
 ![image](https://github.com/wondon1330/groupware/assets/134644570/ccdbfda8-5b56-4795-a88b-1b5b50faae30)
 <br>
 <br>
-
-<h3>부서별</h3>
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/29c23986-b9c0-4b6c-98f7-3811c15f8bb9)
 <br>
