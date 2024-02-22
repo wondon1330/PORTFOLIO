@@ -157,6 +157,25 @@
 <br>
 ![image](https://github.com/wondon1330/groupware/assets/134644570/dc7cd97e-0ef2-44e0-a093-b2b5d7e33293)
 <br>
+function filterByDepartment(department) {
+  // 주소록의 각 사원을 나타내는 요소들을 모두 선택합니다.
+  const contactDetails = document.querySelectorAll('.contactlist_detail');
+  
+  // 각 사원 요소를 순회하면서 부서를 비교하여 필터링합니다.
+  contactDetails.forEach(detail => {
+    // 각 사원 요소에 저장된 부서 정보를 가져옵니다.
+    const detailDepartment = detail.getAttribute('data-department');
+    
+    // 선택한 부서와 현재 사원의 부서를 비교하여 표시 여부를 결정합니다.
+    if (department === '' || department === detailDepartment) {
+      // 선택한 부서가 없거나 선택한 부서와 사원의 부서가 일치하는 경우, 해당 사원을 표시합니다.
+      detail.style.display = '';
+    } else {
+      // 선택한 부서가 있고, 선택한 부서와 사원의 부서가 일치하지 않는 경우, 해당 사원을 숨깁니다.
+      detail.style.display = 'none';
+    }
+  });
+}
 <br>
 <hr>
 
