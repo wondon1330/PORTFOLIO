@@ -229,6 +229,9 @@
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/1bb556e8-bf70-445d-8071-9921715617dd)
 
+그리고 복구 이메일을 입력 후 저장하고 나서, 회원이 비밀번호를 까먹었을 시에
+임시 비밀번호를 사전에 추가했던 복구 이메일로 발송 받게 됩니다. 이 과정에서 기존의 솔트값은 또 다른 무작위의 값으로 변경되며, 이 임시비밀번호도 앞서 설명드렸던 해시 처리되어 DB에 update됩니다.
+
 <h3>임시 비밀번호 난수 생성</h3>
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/72dad555-cfe8-4a93-a07f-a98a016a5a07)
