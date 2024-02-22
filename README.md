@@ -253,7 +253,6 @@
 >![image](https://github.com/wondon1330/groupware/assets/134644570/72169690-12a7-4a36-8fcf-1afe3a372e15)
 
 Naver SMTP을 활용하였습니다.
-
 <br>
 
 <h3>발송된 임시 비밀번호로 로그인</h3>
