@@ -159,7 +159,7 @@
 <br>
 
     function filterByDepartment(department) {
-      // 주소록의 각 사원을 나타내는 요소들을 모두 선택합니다.
+      <span style="color: green;">// 주소록의 각 사원을 나타내는 요소들을 모두 선택합니다.</span>
       const contactDetails = document.querySelectorAll('.contactlist_detail');
   
       // 각 사원 요소를 순회하면서 부서를 비교하여 필터링합니다.
