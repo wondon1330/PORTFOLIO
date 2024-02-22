@@ -201,6 +201,8 @@
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/f8f7fa17-971a-493b-adf6-749cae522ce2)
 ![image](https://github.com/wondon1330/groupware/assets/134644570/130b5df7-9a26-4b8b-8b53-fd7c81804609)
+
+결재승인목록 로그 조회하는 화면입니다. 신청서 작성 시에 첨부했던 파일을 그대로 다운 받을 수 있습니다.
 <br>
 <hr>
 
