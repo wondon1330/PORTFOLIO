@@ -264,7 +264,6 @@
 
 <center>
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbtsPSJgfWZkWFvKVRgGSlrfDNQjfNQBMkVHrBSCjWHJVbxkRnjsgvpdqxfnprSVfHWqrN"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/557f1672-5382-4232-aa55-4f4f3cc3cb34.png" width="20" height="20"/></a>
-
 [gmail.com/wondon1330](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbtsPSJgfWZkWFvKVRgGSlrfDNQjfNQBMkVHrBSCjWHJVbxkRnjsgvpdqxfnprSVfHWqrN)
 </center>
 
