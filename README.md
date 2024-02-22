@@ -41,7 +41,7 @@
 <br>
 
 <b>- 주소록</b><br>
-　Ajax fetch API<br>
+　Ajax fetch API 활용<br>
 <br>
 
 <b>- 결재승인신청 로그</b><br>
