@@ -184,9 +184,9 @@
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/52e6e3e6-e671-4fd6-b154-30cf1e46ddb2)
 
+>![image](https://github.com/wondon1330/groupware/assets/134644570/c1dc854e-effb-482e-8ac2-45fa06371bad)
 기능 API를 사용하여 HTML을 PNG 이미지로 변환 시킨 것을 기반으로 .PDF를 생성해줍니다. 원한다면 직접 CSS 스타일링 해볼 수도 있습니다.
 <br><br>
->![image](https://github.com/wondon1330/groupware/assets/134644570/c1dc854e-effb-482e-8ac2-45fa06371bad)
 <br>
 
 >![image](https://github.com/wondon1330/groupware/assets/134644570/ee92cc2e-99e7-4bf7-9df8-fec5b80f0a46)
