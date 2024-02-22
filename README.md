@@ -129,7 +129,7 @@
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/8adb0943-e8f7-49dc-a1d9-c9be1c2027a2)
 
-임의의 대문자+숫자+특수문자의 배열을 지정해주고, 
+임의의 <b>대문자 + 숫자 + 특수문자</b>의 배열을 지정해주고, 
 빈 문자열 salt를 선언해줍니다
 문자열을 동적으로 생성하기 위한 StringBuilder 객체 sb를 생성합니다.
 길이는 8로 설정했습니다
