@@ -158,7 +158,7 @@
 ![image](https://github.com/wondon1330/groupware/assets/134644570/dc7cd97e-0ef2-44e0-a093-b2b5d7e33293)
 <br>
 
-function filterByDepartment(department) {
+    function filterByDepartment(department) {
   // 주소록의 각 사원을 나타내는 요소들을 모두 선택합니다.
   const contactDetails = document.querySelectorAll('.contactlist_detail');
   
