@@ -243,7 +243,7 @@
 
 >![image](https://github.com/wondon1330/groupware/assets/134644570/36fbac3d-a3c1-446c-b405-3a7135c294dc)
 >![image](https://github.com/wondon1330/groupware/assets/134644570/72169690-12a7-4a36-8fcf-1afe3a372e15)
-
+<br>
 
 <h3>발송된 임시 비밀번호로 로그인 가능</h3>
 
