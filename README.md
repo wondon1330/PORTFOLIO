@@ -254,7 +254,7 @@
 ![image](https://github.com/wondon1330/groupware/assets/134644570/2929d94a-2d67-4d7f-bbbd-e3d0d82ab61c)
 <hr>
 
-![image](https://github.com/wondon1330/PORTFOLIO/assets/134644570/99b4e815-6dec-4112-82e7-f3d1c9d9a178)https://github.com/wondon1330<br>
+<img src="[https://url/image.png](https://github.com/wondon1330/PORTFOLIO/assets/134644570/99b4e815-6dec-4112-82e7-f3d1c9d9a178)" width="50" height="50"/>https://github.com/wondon1330<br>
 ![image](https://github.com/wondon1330/PORTFOLIO/assets/134644570/ef52c867-1fd9-4f47-ab77-5a50e32c279b)https://velog.io/@wondon1330<br>
 ![image](https://github.com/wondon1330/PORTFOLIO/assets/134644570/04f967c2-25fa-48f6-a6d3-39a1a1f7d8dc)https://twitter.com/wondon1330<br>
 
