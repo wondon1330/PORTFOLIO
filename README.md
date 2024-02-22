@@ -105,6 +105,7 @@
 <h2>Hash Salting(Password + Salt)</h2>
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/f1a5645c-982d-4a9f-b883-3b89ba639040)
+
 솔트라는 단방향 함수의 추가 입력으로 사용되는 랜덤 데이터를 추가해서 끝내 제가 원하던 결과를 얻을 수 있었습니다. 
 <br>
 
