@@ -183,7 +183,7 @@
 ![image](https://github.com/wondon1330/groupware/assets/134644570/2929d94a-2d67-4d7f-bbbd-e3d0d82ab61c)
 <hr>
 
-End of Portfolio
+Thank you
 
 
 
