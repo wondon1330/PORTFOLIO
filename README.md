@@ -69,7 +69,7 @@
 ![image](https://github.com/wondon1330/groupware/assets/134644570/36290150-c371-4e66-a00c-77e5ca419673)
 ![image](https://github.com/wondon1330/groupware/assets/134644570/1083940d-91e6-4f42-b1f6-ef62df876a1b)
 
-회원 CRUD 페이지 일부 입니다.
+<b>회원 CRUD</b> 페이지 일부 입니다.
 특정 권한이 있는 관리자가 <b>사용자 추가/삭제, 정보 조회/수정</b>이 가능합니다.
 추후 사용자가 해당 계정으로 로그인 시 세부 사항을 기재하여 저장할 수 있습니다.
 <hr>
