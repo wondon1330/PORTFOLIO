@@ -255,7 +255,7 @@
 <hr>
 
 
-Github　　　https://github.com/wondon1330<br>
-Velog　　　https://velog.io/@wondon1330<br>
-X　　　　　https://twitter.com/wondon1330<br>
+>Github　　　https://github.com/wondon1330<br>
+>Velog　　　https://velog.io/@wondon1330<br>
+>X　　　　　https://twitter.com/wondon1330<br>
 
