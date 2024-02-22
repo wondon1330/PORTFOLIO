@@ -76,6 +76,7 @@
 ![image](https://github.com/wondon1330/groupware/assets/134644570/446c1070-193f-46f8-9864-306edab73344)
 
 입력한 회원 정보 값을 DB에 저장시킵니다. 이 때, 계정마다 고유의 랜덤한 값의 Salt를 부여받게 됩니다. 
+<br>
 
 <h2>HASH 반환 구조</h2>
 
