@@ -162,7 +162,6 @@
 
 <h2>결재승인</h2>
 
-
 <h3>결재 승인 신청서 작성 완료한 내용 -> 자동으로 양식에 맞춰 PDF로 변환 후 다운로드(CDN)</h3>
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/52e6e3e6-e671-4fd6-b154-30cf1e46ddb2)
