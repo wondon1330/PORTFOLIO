@@ -68,7 +68,7 @@
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/36290150-c371-4e66-a00c-77e5ca419673)
 ![image](https://github.com/wondon1330/groupware/assets/134644570/1083940d-91e6-4f42-b1f6-ef62df876a1b)
-제가 구현해본 회원 CRUD페이지 일부 입니다
+제가 구현해본 회원 CRUD 페이지 일부 입니다
 <hr>
 
 <h2>SALT</h2>
