@@ -261,5 +261,3 @@
 <center><a href="https://twitter.com/wondon1330"><img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/fd365c88-34ec-4172-8960-cf64751f195d.png" width="20" height="20"/></a></center>　https://twitter.com/wondon1330<br>
 
 <br>
-
-[구글](https://google.com)
