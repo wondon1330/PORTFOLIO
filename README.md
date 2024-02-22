@@ -128,6 +128,15 @@
 <h2>SALT 난수 생성</h2>
 
 ![image](https://github.com/wondon1330/groupware/assets/134644570/8adb0943-e8f7-49dc-a1d9-c9be1c2027a2)
+
+임의의 대문자+숫자+특수문자의 배열을 지정해주고, 
+빈 문자열 salt를 선언해줍니다
+문자열을 동적으로 생성하기 위한 StringBuilder 객체 sb를 생성합니다.
+길이는 8로 설정했습니다
+아까 지정했던 문자 구성 saltChracters의 길이(saltCharacters.length())를 범위로 사용하여서 saltCharacters.charAt(...)랜덤한 인덱스를 선택하고 이것에 해당하는 문자를 가져옵니다. 가져온 문자는 sb 객체에 append 메서드를 사용하여 문자열에 추가됩니다. 결과적으로 for 루프를 통해서 8자의 랜덤한 문자열이 sb에 추가되고, sb.toString()으로 문자열로 변환할 수 있습니다. 이것을 salt값으로 set해준 다음, 해싱을 10000회 반복 처리 해주게 됩니다. 그 해싱된 값을 유저 패스워드 컬럼인 employee_userpw에 set시켜줍니다.
+
+SecureRandom을 사용한 이유?
+Random 클래스는 시스템 시간을 시드로 사용하거나 시드를 생성한다. 그러므로 공격자가 시드의 생성된 시간을 알면 쉽게 재현해낼 수 있지만 SecureRandom 은 OS의 무작위 데이터(엔트로피:거시적 상태에 대응하는 미시적 상태의 수의 로그)를 가져와서 시드로 사용한다.
 <br>
 <br>
 <hr>
