@@ -13,7 +13,7 @@
 ![기술서 양식 (2)](https://github.com/wondon1330/PORTFOLIO/assets/134644570/03131b96-9e13-440b-bc5f-ef5aec383d40)
 
 <h2>핵심 역량</h2>
-- JAVA, Spring Framework 기반 업무용 그룹웨어 WEB 시스템 개발(팀 프로젝트) 경험 보유<br>
+- Java, Spring Framework 기반 업무용 그룹웨어 WEB 시스템 개발(팀 프로젝트) 경험 보유<br>
 - 데이터베이스 설계 및 구현(기본 SQL 작성 가능)<br>
 - Ajax Fetch API, CDNJS 활용 가능<br>
 - 객체지향 프로그래밍으로 프레임워크 응용 웹개발 가능<br>
