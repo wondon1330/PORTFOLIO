@@ -258,4 +258,8 @@
 >Github　　　https://github.com/wondon1330<br>
 >Velog　　　https://velog.io/@wondon1330<br>
 >X　　　　　https://twitter.com/wondon1330<br>
+![image](https://github.com/wondon1330/PORTFOLIO/assets/134644570/d7d31e9e-312b-4edf-8fec-6172b8f8c00b)
+
+<br>
+<img src="https://github.com/wondon1330/PORTFOLIO/assets/134644570/d7d31e9e-312b-4edf-8fec-6172b8f8c00b.png" width="200" height="400"/>
 
